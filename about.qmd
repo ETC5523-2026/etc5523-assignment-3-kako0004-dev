@@ -1,13 +1,16 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About me"
+image: about_me.jpeg
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/kako0004-dev
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I’m Kishori Akola, a Master of Business Analytics student at Monash University.
+
+I’m interested in how data can help us understand problems and make informed decisions. Through this blog, I explore research findings and communicate their significance using clear explanations and purposeful visualisations.
+
+This website was created for ETC5523 Communicating with Data.
