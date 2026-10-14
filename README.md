@@ -1,6 +1,4 @@
 
 # ETC5523 Blog Assessment
 
-* This is a **template** for the ETC5523 Blog Assessment. 
-* The author of this blog is **Michael Lydeamore**.
-* The URL for this blog is [https://etc5523-2023.github.io/blog-template/](https://etc5523-2023.github.io/blog-template/)
+Intended audience: This blog post is written for readers interested in healthcare policy who have no specialist epidemiology training and want to understand what hospital infection statistics reveal—and what they leave out.
