@@ -1,0 +1,118 @@
+/* A consistent colour palette */
+:root {
+  --paper: #F7F3EB;
+  --ink: #243434;
+  --teal: #164E4B;
+  --copper: #934A2D;
+  --line: #DDD5C8;
+}
+
+/* Warm background and comfortable reading */
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* Navigation */
+.navbar {
+  background-color: var(--paper);
+  border-bottom: 2px solid var(--teal);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--teal);
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+}
+
+/* Distinctive title banner */
+.quarto-title-banner {
+  background-color: var(--teal);
+  color: #FFFFFF;
+  border-bottom: 6px solid #C98A63;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.quarto-title-banner h1 {
+  color: #FFFFFF;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.quarto-title-banner .subtitle,
+.quarto-title-banner .description {
+  color: #FFFFFF;
+}
+
+/* Editorial headings */
+main h1,
+main h2,
+main h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--teal);
+}
+
+main h2 {
+  margin-top: 2rem;
+}
+
+/* Style the automatically generated listing */
+.quarto-listing .quarto-post {
+  background-color: #FFFFFF;
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--copper);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.quarto-listing .listing-title,
+.quarto-listing .listing-title a {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--teal);
+  font-weight: 700;
+}
+
+.quarto-listing .listing-category {
+  color: var(--copper);
+  border-color: var(--copper);
+}
+
+.quarto-listing img {
+  border-radius: 6px;
+}
+
+/* Links and keyboard focus */
+main a {
+  color: var(--copper);
+  text-underline-offset: 0.2em;
+}
+
+main a:hover {
+  text-decoration: underline;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--copper);
+  outline-offset: 4px;
+}
+
+/* Comfortable spacing on smaller screens */
+@media (max-width: 768px) {
+  .quarto-title-banner {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .quarto-listing .quarto-post {
+    padding: 1rem;
+  }
+}

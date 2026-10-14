@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "",
+    "text": "A lower percentage of hospital patients with an infection sounds reassuring. But that percentage does not tell us how many infections occur across a country each year, or how much illness and loss of life they cause.\nHealthcare-associated infections are infections acquired while receiving medical care. Understanding their wider impact matters when comparing healthcare systems and deciding where prevention efforts deserve attention. Relying on one measure can leave a substantial burden overlooked.\nA study by Zacher and colleagues, published in 2019 using hospital survey data from 2011–2012, illustrates this problem. Germany had lower infection prevalence among hospital patients than the European Union and European Economic Area average, yet a higher estimated annual infection rate across its population.\nHow can both findings be true? And what should readers consider before interpreting a low hospital infection percentage as evidence of a small public-health problem?"
+  },
+  {
+    "objectID": "posts/welcome/index.html#a-reassuring-percentage-can-hide-a-larger-problem",
+    "href": "posts/welcome/index.html#a-reassuring-percentage-can-hide-a-larger-problem",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "",
+    "text": "A lower percentage of hospital patients with an infection sounds reassuring. But that percentage does not tell us how many infections occur across a country each year, or how much illness and loss of life they cause.\nHealthcare-associated infections are infections acquired while receiving medical care. Understanding their wider impact matters when comparing healthcare systems and deciding where prevention efforts deserve attention. Relying on one measure can leave a substantial burden overlooked.\nA study by Zacher and colleagues, published in 2019 using hospital survey data from 2011–2012, illustrates this problem. Germany had lower infection prevalence among hospital patients than the European Union and European Economic Area average, yet a higher estimated annual infection rate across its population.\nHow can both findings be true? And what should readers consider before interpreting a low hospital infection percentage as evidence of a small public-health problem?"
+  },
+  {
+    "objectID": "posts/welcome/index.html#two-measures-two-different-questions",
+    "href": "posts/welcome/index.html#two-measures-two-different-questions",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "Two measures, two different questions",
+    "text": "Two measures, two different questions\nHospital prevalence asks: What proportion of patients had an infection when they were surveyed? It provides a snapshot of the patients receiving hospital care.\nAnnual population incidence asks: How many new infections were estimated to occur during a year, relative to the country’s population? It captures a different aspect of the problem, including the scale of hospital use.\nThe denominators matter. One measure concerns hospital patients; the other concerns all residents. A country can therefore have a relatively low proportion of infected hospital patients while still experiencing many infections across its population when hospital use is high.\nNeither measure replaces the other. Together, they give readers a fuller basis for understanding the impact of infections associated with hospital care."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-the-researchers-measured",
+    "href": "posts/welcome/index.html#what-the-researchers-measured",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "What the researchers measured",
+    "text": "What the researchers measured\nZacher et al. (2019) combined hospital survey data collected across Europe in 2011–2012 with Eurostat population and hospital-discharge data to estimate the annual impact of five selected healthcare-associated infections. Germany’s estimates refer to 2011.\nThe researchers converted the survey snapshot into estimates of new infections, infection-related deaths and healthy years of life lost through illness or premature death. These were model-based estimates, rather than directly counted annual totals."
+  },
+  {
+    "objectID": "posts/welcome/index.html#germanys-population-estimates-told-a-different-story",
+    "href": "posts/welcome/index.html#germanys-population-estimates-told-a-different-story",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "Germany’s population estimates told a different story",
+    "text": "Germany’s population estimates told a different story\nDespite its lower hospital infection prevalence, Germany had an estimated 592 new infections per 100,000 residents annually, compared with 468 across the European Union and European Economic Area. Its estimated infection-related death rate was also higher: approximately 20 versus 15 per 100,000 residents.\nThe researchers suggested that greater hospital use could help explain this apparent contradiction: more hospital admissions expose more people to infection risk, even when the proportion of infected patients is relatively low. A low hospital percentage therefore does not necessarily mean a small population burden.\nThese estimates describe the historical study period. They also carry uncertainty, so the differences should not be treated as exact.\n\n\n\n\n\n\nFigure 1: Estimated annual healthcare-associated infection burden in Germany and the European Union/European Economic Area, based on 2011–2012 data. Bars show median estimates per 100,000 residents; error bars show 95% uncertainty intervals. Source: Zacher et al. (2019), Table 2.\n\n\n\nFigure 1 shows higher central estimates for Germany across all three measures. However, the uncertainty intervals overlap for deaths and healthy years lost, so those differences should be interpreted cautiously."
+  },
+  {
+    "objectID": "posts/welcome/index.html#pneumonia-accounted-for-the-greatest-estimated-health-loss",
+    "href": "posts/welcome/index.html#pneumonia-accounted-for-the-greatest-estimated-health-loss",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "Pneumonia accounted for the greatest estimated health loss",
+    "text": "Pneumonia accounted for the greatest estimated health loss\nThe five infection types differed in their estimated impact. Table 1 shows that pneumonia contributed the most healthy years lost, followed by urinary tract and bloodstream infections.\n\n\n\nTable 1: Estimated annual health loss from five healthcare-associated infections in Germany, based on the study’s 2011–2012 data. Values are median estimates in disability-adjusted life years. Source: Zacher et al. (2019), Table 2.\n\n\n\n\n\nInfection type\nHealthy years lost per 100,000 residents\n\n\n\n\nPneumonia\n86.1\n\n\nUrinary tract infection\n82.6\n\n\nBloodstream infection\n72.2\n\n\nSurgical-site infection\n35.7\n\n\nClostridioides difficile infection\n25.9\n\n\n\n\n\n\nThis comparison shows why counting infections alone is insufficient: their consequences also matter. However, these burden estimates do not establish which prevention intervention would be most effective or cost-effective.\nThe estimates cover five selected infection types, not all healthcare-associated infections. Pneumonia had the highest central estimate of health loss, but overlapping uncertainty intervals mean the ranking is not definitive."
+  },
+  {
+    "objectID": "posts/welcome/index.html#read-beyond-the-headline-percentage",
+    "href": "posts/welcome/index.html#read-beyond-the-headline-percentage",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "Read beyond the headline percentage",
+    "text": "Read beyond the headline percentage\nGermany’s findings answer the opening question: lower infection prevalence among hospital patients can coexist with a substantial annual burden across the population. The measures use different denominators, and greater hospital use may expose more people to infection risk.\nThe study estimated higher population infection rates in Germany than the European comparison average, with pneumonia contributing the greatest estimated health loss among the five infection types. Hospital percentages therefore need to be considered alongside the frequency and consequences of infections.\nThese estimates rely on historical data and modelling assumptions. They illustrate why the choice of measure matters, rather than describing Germany’s hospitals today. Current prevention decisions require updated evidence."
+  },
+  {
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Low infection rates do not tell the whole hospital story",
+    "section": "References",
+    "text": "References\n\n\nZacher, Benedikt, Sebastian Haller, Niklas Willrich, et al. 2019. “Application of a New Methodology and r Package Reveals a High Burden of Healthcare-Associated Infections (HAI) in Germany Compared to the Average in the European Union/European Economic Area, 2011 to 2012.” Eurosurveillance 24 (46): 1900135. https://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hi, I’m Kishori Akola, a Master of Business Analytics student at Monash University.\nI’m interested in how data can help us understand problems and make informed decisions. Through this blog, I explore research findings and communicate their significance using clear explanations and purposeful visualisations.\nThis website was created for ETC5523 Communicating with Data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Low infection rates do not tell the whole hospital story\n\n\n\nHealth\n\nData stories\n\n\n\nWhy hospital infection percentages alone can give an incomplete picture of their impact.\n\n\n\n\n\nOct 13, 2026\n\n\nKishori Akola\n\n\n\n\n\nNo matching items"
+  }
+]
